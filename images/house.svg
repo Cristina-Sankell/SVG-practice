@@ -1,0 +1,9 @@
+    
+    <svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+        <symbol id="house" viewBox="0 0 880 833" fill="none">
+    <polyline points="54,356 440,55 826,356"
+        stroke="black" stroke-width="33" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="120,400 120,740 360,740 360,560 520,560 520,740 760,740 760,400"
+        stroke="black" stroke-width="33" stroke-linecap="round" stroke-linejoin="round"/>
+        </symbol>
+    </svg>
